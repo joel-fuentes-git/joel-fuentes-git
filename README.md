@@ -8,8 +8,6 @@ My day job sits at the intersection of LLMs, internal AI transformation, agentic
 
 Outside of work, I build things. Recent projects include a fine-tuned multi-agent market simulator with heterogeneous trader personas ([ucfinmath](https://github.com/joel-fuentes-git/ucfinmath)), a PDF-to-knowledge-graph adapter that actually preserves tables and figures ([graphify-unstructured](https://github.com/joel-fuentes-git/graphify-unstructured)), and a short squeeze research dossier on $CAR that got a little too detailed ([avis-squeeze-analysis](https://github.com/joel-fuentes-git/avis-squeeze-analysis)). I also compete in hackathons when they're interesting and give talks, most recently at the University of Chicago's Financial Mathematics seminar.
 
-I care about building things that work, understanding why they work, and being honest when they don't.
-
 ---
 
 [LinkedIn](https://www.linkedin.com/in/joel-fuentes) · New York
